@@ -48,39 +48,14 @@
     ],
     [
         {
-            "pricing": "$3,685/mo",
-            "address": "EAGLE + WEST, 1 Eagle St APT 2902, Brooklyn, NY 11222",
-            "space": "Studio 1 ba508 sqft - Apartment for rent"
-        },
-        {
-            "pricing": "$12,780/mo",
-            "address": "EAGLE + WEST, 1 Eagle St APT 1709, Brooklyn, NY 11222",
-            "space": "3 bds2 ba1,445 sqft - Apartment for rent"
-        },
-        {
-            "pricing": "$13,145/mo",
-            "address": "EAGLE + WEST, 1 Eagle St APT 2207, Brooklyn, NY 11222",
-            "space": "3 bds2 ba1,428 sqft - Apartment for rent"
-        },
-        {
             "pricing": "$4,450/mo",
             "address": "EAGLE + WEST, 1 Eagle St APT 2209, Brooklyn, NY 11222",
             "space": "1 bd1 ba635 sqft - Apartment for rent"
         },
         {
-            "pricing": "$5,345/mo",
-            "address": "EAGLE + WEST, 1 Eagle St PENTHOUSE 2P, Brooklyn, NY 11222",
-            "space": "1 bd1 ba621 sqft - Apartment for rent"
-        },
-        {
             "pricing": "$5,325/mo",
             "address": "EAGLE + WEST, 1 Eagle St APT 1508, Brooklyn, NY 11222",
             "space": "1 bd1 ba813 sqft - Apartment for rent"
-        },
-        {
-            "pricing": "$7,460/mo",
-            "address": "EAGLE + WEST, 1 Eagle St #2235, Brooklyn, NY 11222",
-            "space": "2 bds2 ba1,171 sqft - Apartment for rent"
         },
         {
             "pricing": "$5,635/mo",
@@ -91,9 +66,49 @@
             "pricing": "$12,810/mo",
             "address": "EAGLE + WEST, 1 Eagle St APT 1909, Brooklyn, NY 11222",
             "space": "3 bds2 ba1,445 sqft - Apartment for rent"
+        },
+        {
+            "pricing": "$4,480/mo",
+            "address": "EAGLE + WEST, 1 Eagle St APT 2409, Brooklyn, NY 11222",
+            "space": "1 bd1 ba635 sqft - Apartment for rent"
+        },
+        {
+            "pricing": "$5,395/mo",
+            "address": "EAGLE + WEST, 1 Eagle St PENTHOUSE 1P, Brooklyn, NY 11222",
+            "space": "1 bd1 ba621 sqft - Apartment for rent"
+        },
+        {
+            "pricing": "$4,205/mo",
+            "address": "EAGLE + WEST, 1 Eagle St PENTHOUSE 3N, Brooklyn, NY 11222",
+            "space": "Studio 1 ba488 sqft - Apartment for rent"
+        },
+        {
+            "pricing": "$4,305/mo",
+            "address": "EAGLE + WEST, 1 Eagle St PENTHOUSE 1N, Brooklyn, NY 11222",
+            "space": "Studio 1 ba488 sqft - Apartment for rent"
+        },
+        {
+            "pricing": "$4,255/mo",
+            "address": "EAGLE + WEST, 1 Eagle St PENTHOUSE 2N, Brooklyn, NY 11222",
+            "space": "Studio 1 ba488 sqft - Apartment for rent"
         }
     ],
     [
+        {
+            "pricing": "$6,950/mo",
+            "address": "The Westmont, 730 Columbus Ave #1-16C, New York, NY 10025",
+            "space": "2 bds2 ba1,120 sqft - Apartment for rent"
+        },
+        {
+            "pricing": "$3,570+ Studio",
+            "address": "Gateway | 389 S End Ave, New York, NY",
+            "space": "$5,005+ 1 bd "
+        },
+        {
+            "pricing": "$3,595+ Studio",
+            "address": "Marquis Apartments | 150 E 34th St, New York, NY",
+            "space": "$4,195+ 1 bd$6,035+ 2 bds "
+        },
         {
             "pricing": "$4,195/mo",
             "address": "360 Wythe, 360 Wythe Ave #404, Brooklyn, NY 11249",
@@ -123,24 +138,19 @@
             "pricing": "$3,349+ Studio",
             "address": "95 Wall | 95 Wall St, New York, NY",
             "space": "$4,227+ 1 bd$6,269+ 2 bds "
-        },
-        {
-            "pricing": "$1,795+ Studio",
-            "address": "Fairfield Manor at Douglaston | 43 Douglaston Pkwy, Little Neck, NY",
-            "space": "$2,345+ 1 bd$2,795+ 2 bds "
-        },
-        {
-            "pricing": "$1,581+ 1 bd",
-            "address": "Noonan Towers | 939 Woodycrest Ave, Bronx, NY",
-            "space": " "
-        },
-        {
-            "pricing": "$3,543+ Studio",
-            "address": "View 34 | 401 E 34th St, New York, NY",
-            "space": "$4,003+ 1 bd$6,190+ 2 bds$7,972+ 3 bds "
         }
     ],
     [
+        {
+            "pricing": "$2,500/mo",
+            "address": "100 W 139th St APT 14, New York, NY 10030",
+            "space": "2 bds1 ba-- sqft - Apartment for rent"
+        },
+        {
+            "pricing": "$2,000+ Studio",
+            "address": "2763 Morris Ave, Bronx, NY",
+            "space": "$2,175+ 1 bd$2,800+ 2 bds "
+        },
         {
             "pricing": "$1,838/mo",
             "address": "1410 New York Ave APT 1C, Brooklyn, NY 11210",
@@ -155,11 +165,6 @@
             "pricing": "$2,600/mo",
             "address": "102-30 67th Ave #2P, Forest Hills, NY 11375",
             "space": "2 bds1 ba1,100 sqft - Apartment for rent"
-        },
-        {
-            "pricing": "$2,399/mo",
-            "address": "738 Sheffield Ave APT 2R, Brooklyn, NY 11207",
-            "space": "1 bd1 ba-- sqft - Apartment for rent"
         },
         {
             "pricing": "$1,700+ Studio",
@@ -180,14 +185,14 @@
             "pricing": "$2,700+ 3 bds",
             "address": "208 W 140th St, New York, NY",
             "space": " "
-        },
-        {
-            "pricing": "$2,500/mo",
-            "address": "28 Macdougal St #2E, Brooklyn, NY 11233",
-            "space": "2 bds1 ba-- sqft - Apartment for rent"
         }
     ],
     [
+        {
+            "pricing": "$2,480/mo",
+            "address": "6550 Wetherole St APT 1E, Flushing, NY 11374",
+            "space": "2 bds1 ba964 sqft - Apartment for rent"
+        },
         {
             "pricing": "$2,700+ 2 bds",
             "address": "1218 E 84th St, Brooklyn, NY",
@@ -227,14 +232,14 @@
             "pricing": "$3,295/mo",
             "address": "601 W 184th St APT 6C, New York, NY 10033",
             "space": "4 bds1 ba1,000 sqft - Apartment for rent"
-        },
-        {
-            "pricing": "$2,250+ 1 bd",
-            "address": "675 Academy St, New York, NY",
-            "space": " "
         }
     ],
     [
+        {
+            "pricing": "$5,500/mo",
+            "address": "103 E 2nd St APT 5, New York, NY 10009",
+            "space": "3 bds2 ba-- sqft - Apartment for rent"
+        },
         {
             "pricing": "$2,299/mo",
             "address": "4409 6th Ave APT 3G, Brooklyn, NY 11220",
@@ -274,14 +279,55 @@
             "pricing": "$2,025/mo",
             "address": "21-24 Crescent St #A4, Astoria, NY 11105",
             "space": "1 bd1 ba-- sqft - Apartment for rent"
-        },
-        {
-            "pricing": "$3,635+ Studio",
-            "address": "305 W 50th St, New York, NY",
-            "space": "$4,140+ 1 bd$6,386+ 2 bds "
         }
     ],
-    [],
+    [
+        {
+            "pricing": "$5,250+ 1 bd",
+            "address": "300 E 34th St, New York, NY",
+            "space": "$7,395+ 2 bds "
+        },
+        {
+            "pricing": "$4,300+ Studio",
+            "address": "1 Irving Pl, New York, NY",
+            "space": "$4,595+ 1 bd "
+        },
+        {
+            "pricing": "$3,600/mo",
+            "address": "333 E 45th St APT 28B, New York, NY 10017",
+            "space": "1 bd1 ba-- sqft - Apartment for rent"
+        },
+        {
+            "pricing": "$14,500/mo",
+            "address": "139 Spring St #5B, New York, NY 10012",
+            "space": "2 bds2 ba-- sqft - Apartment for rent"
+        },
+        {
+            "pricing": "$3,800+ 2 bds",
+            "address": "68 Bradhurst Ave, New York, NY",
+            "space": " "
+        },
+        {
+            "pricing": "$4,700+ Studio",
+            "address": "15 William St, New York, NY",
+            "space": "$5,500+ 1 bd$7,700+ 2 bds$10,000+ 3 bds "
+        },
+        {
+            "pricing": "$2,300/mo",
+            "address": "6740 Yellowstone Blvd APT 5C, Flushing, NY 11375",
+            "space": "1 bd1 ba-- sqft - Apartment for rent"
+        },
+        {
+            "pricing": "$3,800/mo",
+            "address": "10820 71st Ave APT 12D, Flushing, NY 11375",
+            "space": "1 bd1 ba870 sqft - Apartment for rent"
+        },
+        {
+            "pricing": "$3,500+ Studio",
+            "address": "2373 Broadway, New York, NY",
+            "space": "$6,995+ 2 bds "
+        }
+    ],
     [
         {
             "pricing": "$2,650/mo",
@@ -331,11 +377,6 @@
     ],
     [
         {
-            "pricing": "$4,950+ 1 bd",
-            "address": "555 W 59th St, New York, NY",
-            "space": "$22,500+ 3 bds$32,500+ 4 bds "
-        },
-        {
             "pricing": "$5,500+ 1 bd",
             "address": "100 Riverside Blvd, New York, NY",
             "space": "$5,750+ 2 bds$9,950+ 3 bds "
@@ -374,14 +415,14 @@
             "pricing": "$2,000/mo",
             "address": "93-54 Qns Blvd #2F, Rego Park, NY 11374",
             "space": "1 bd1 ba-- sqft - Apartment for rent"
+        },
+        {
+            "pricing": "$1,875/mo",
+            "address": "1025 Esplanade Ave APT 1E, Bronx, NY 10461",
+            "space": "1 bd1 ba-- sqft - Apartment for rent"
         }
     ],
     [
-        {
-            "pricing": "$3,475+ Studio",
-            "address": "140 Riverside Blvd, New York, NY",
-            "space": "$4,800+ 1 bd$7,799+ 2 bds "
-        },
         {
             "pricing": "$3,000/mo",
             "address": "23-09 29th St #1F, Astoria, NY 11105",
@@ -421,20 +462,61 @@
             "pricing": "$2,250+ Studio",
             "address": "166 W 75th St, New York, NY",
             "space": "$3,600+ 1 bd "
+        },
+        {
+            "pricing": "$5,850/mo",
+            "address": "196 E 75th St APT 10D, New York, NY 10021",
+            "space": "2 bds1 ba-- sqft - Apartment for rent"
         }
     ],
-    [],
     [
         {
-            "pricing": "$2,861/mo",
-            "address": "338 E 92nd St #1, New York, NY 10128",
-            "space": "2 bds1 ba-- sqft - Apartment for rent"
+            "pricing": "$3,895/mo",
+            "address": "267 Powers St APT 2R, Brooklyn, NY 11211",
+            "space": "2 bds2 ba-- sqft - Apartment for rent"
         },
         {
-            "pricing": "$3,143+ Studio",
-            "address": "210 E 22nd St, New York, NY",
-            "space": "$4,522+ 1 bd$5,119+ 2 bds "
+            "pricing": "$4,100+ Studio",
+            "address": "240 Central Park S, New York, NY",
+            "space": "$6,200+ 1 bd$8,280+ 2 bds$12,500+ 3 bds "
         },
+        {
+            "pricing": "$4,800/mo",
+            "address": "301 E 21st St APT 16G, New York, NY 10010",
+            "space": "1 bd1 ba647 sqft - Apartment for rent"
+        },
+        {
+            "pricing": "$2,695/mo",
+            "address": "214 E 10th St APT 21, New York, NY 10003",
+            "space": "1 bd1 ba-- sqft - Apartment for rent"
+        },
+        {
+            "pricing": "$3,750/mo",
+            "address": "250 Moore St APT 205, Brooklyn, NY 11206",
+            "space": "1 bd1 ba1,000 sqft - Apartment for rent"
+        },
+        {
+            "pricing": "$5,500/mo",
+            "address": "82 Cambridge Pl #1, Brooklyn, NY 11238",
+            "space": "2 bds2 ba1,500 sqft - Apartment for rent"
+        },
+        {
+            "pricing": "$3,475/mo",
+            "address": "210 Hoyt St APT 3, Brooklyn, NY 11217",
+            "space": "2 bds1 ba750 sqft - Apartment for rent"
+        },
+        {
+            "pricing": "$3,195/mo",
+            "address": "200 Avenue A APT 4A, New York, NY 10009",
+            "space": "1 bd1 ba-- sqft - Apartment for rent"
+        },
+        {
+            "pricing": "$4,000+ 4 bds",
+            "address": "871 Hart St, Brooklyn, NY",
+            "space": " "
+        }
+    ],
+    [
         {
             "pricing": "$4,200+ 1 bd",
             "address": "250 E 49th St, New York, NY",
@@ -469,57 +551,87 @@
             "pricing": "$3,750/mo",
             "address": "358 Irving Ave APT 2F, Brooklyn, NY 11237",
             "space": "3 bds3 ba-- sqft - Apartment for rent"
+        },
+        {
+            "pricing": "$2,606+ 1 bd",
+            "address": "1326 Ocean Ave, Brooklyn, NY",
+            "space": "$3,131+ 2 bds "
+        },
+        {
+            "pricing": "$3,200/mo",
+            "address": "228 W 123rd St APT 3, New York, NY 10027",
+            "space": "2 bds1 ba-- sqft - Apartment for rent"
+        }
+    ],
+    [
+        {
+            "pricing": "$2,200/mo",
+            "address": "360 Broadway #1K, Brooklyn, NY 11211",
+            "space": "Studio 1 ba-- sqft - Apartment for rent"
+        },
+        {
+            "pricing": "$5,995+ 4 bds",
+            "address": "543 Bergen St, Brooklyn, NY",
+            "space": "$7,000+ 5 bds "
+        },
+        {
+            "pricing": "$2,995/mo",
+            "address": "51-27 Codwise Pl #3B, Elmhurst, NY 11373",
+            "space": "2 bds1 ba900 sqft - Apartment for rent"
+        },
+        {
+            "pricing": "$3,200/mo",
+            "address": "307 E 78th St APT 4E, New York, NY 10075",
+            "space": "2 bds1 ba600 sqft - Apartment for rent"
+        },
+        {
+            "pricing": "$1,625+ Studio",
+            "address": "87-01 Midland Pkwy, Jamaica, NY",
+            "space": "$1,950+ 1 bd$2,450+ 2 bds "
+        },
+        {
+            "pricing": "$2,645/mo",
+            "address": "31-76 35th St #3R, Astoria, NY 11106",
+            "space": "2 bds1 ba875 sqft - Apartment for rent"
+        },
+        {
+            "pricing": "$3,199/mo",
+            "address": "1697 Nostrand Ave #2A, Brooklyn, NY 11226",
+            "space": "3 bds2 ba-- sqft - Apartment for rent"
+        },
+        {
+            "pricing": "$2,800/mo",
+            "address": "476 Central Ave APT 2L, Brooklyn, NY 11221",
+            "space": "2 bds1 ba-- sqft - Apartment for rent"
+        },
+        {
+            "pricing": "$4,340+ Studio",
+            "address": "311 11th Ave, New York, NY",
+            "space": "$5,210+ 1 bd$9,975+ 2 bds "
         }
     ],
     [],
     [
         {
-            "pricing": "$2,300/mo",
-            "address": "344 80th St APT 4, Brooklyn, NY 11209",
-            "space": "2 bds1 ba800 sqft - Apartment for rent"
+            "pricing": "$4,195/mo",
+            "address": "24-56 38th St #1, Astoria, NY 11103",
+            "space": "2 bds2 ba-- sqft - Apartment for rent"
         },
         {
-            "pricing": "$2,900/mo",
-            "address": "2071 Pacific St #1, Brooklyn, NY 11233",
-            "space": "2 bds1 ba-- sqft - Apartment for rent"
+            "pricing": "$3,200/mo",
+            "address": "373 W 123rd St APT 1, New York, NY 10027",
+            "space": "2 bds1.5 ba-- sqft - Apartment for rent"
         },
         {
-            "pricing": "$1,425/mo",
-            "address": "219 Echo Pl APT 6B, Bronx, NY 10457",
-            "space": "Studio 1 ba-- sqft - Apartment for rent"
+            "pricing": "$1,850+ 1 bd",
+            "address": "1275 38th St, Brooklyn, NY",
+            "space": "$1,850+ 2 bds "
         },
         {
-            "pricing": "$3,000/mo",
-            "address": "1050 Putnam Ave APT 3R, Brooklyn, NY 11221",
-            "space": "3 bds1 ba-- sqft - Apartment for rent"
+            "pricing": "$15,000+ 2 bds",
+            "address": "7 W 57th St, New York, NY",
+            "space": " "
         },
-        {
-            "pricing": "$2,371+ Studio",
-            "address": "968 60th St, Brooklyn, NY",
-            "space": "$2,790+ 1 bd$3,472+ 2 bds "
-        },
-        {
-            "pricing": "$2,995/mo",
-            "address": "25 Bleecker St #2, Brooklyn, NY 11221",
-            "space": "3 bds1 ba950 sqft - Apartment for rent"
-        },
-        {
-            "pricing": "$6,000+ 2 bds",
-            "address": "222 E 39th St, New York, NY",
-            "space": "$7,750+ 4 bds "
-        },
-        {
-            "pricing": "$3,150/mo",
-            "address": "213 E 11th St APT 4C, New York, NY 10003",
-            "space": "Studio 1 ba-- sqft - Apartment for rent"
-        },
-        {
-            "pricing": "$8,500/mo",
-            "address": "220 E 63rd St PH D, New York, NY 10065",
-            "space": "2 bds2 ba1,108 sqft - Apartment for rent"
-        }
-    ],
-    [
         {
             "pricing": "$2,700/mo",
             "address": "93 6th Ave #3R, Brooklyn, NY 11217",
@@ -541,32 +653,27 @@
             "space": "1 bd1 ba-- sqft - Apartment for rent"
         },
         {
-            "pricing": "$1,500/mo",
-            "address": "32-22 43rd St FLOOR 1, Astoria, NY 11103",
-            "space": "Studio 1 ba-- sqft - Apartment for rent"
-        },
-        {
             "pricing": "$2,050/mo",
             "address": "65 Arden St APT 3F, New York, NY 10040",
             "space": "1 bd1 ba-- sqft - Apartment for rent"
-        },
-        {
-            "pricing": "$3,000/mo",
-            "address": "39-58 50th St #2, Woodside, NY 11377",
-            "space": "2 bds1 ba-- sqft - Apartment for rent"
-        },
-        {
-            "pricing": "$2,500/mo",
-            "address": "174-64 128th Ave #2, Jamaica, NY 11434",
-            "space": "3 bds1.5 ba1,150 sqft - Apartment for rent"
-        },
-        {
-            "pricing": "$2,799/mo",
-            "address": "33-15 28th Ave #2, Astoria, NY 11103",
-            "space": "2 bds1 ba850 sqft - Apartment for rent"
         }
     ],
     [
+        {
+            "pricing": "$1,900/mo",
+            "address": "430 Lenox Ave APT 2F, New York, NY 10037",
+            "space": "Studio 1 ba-- sqft - Apartment for rent"
+        },
+        {
+            "pricing": "$2,400/mo",
+            "address": "3445 Leavitt St APT 5C, Flushing, NY 11354",
+            "space": "2 bds2 ba850 sqft - Apartment for rent"
+        },
+        {
+            "pricing": "$2,375+ 2 bds",
+            "address": "401 E 21st St, Brooklyn, NY",
+            "space": " "
+        },
         {
             "pricing": "$2,050/mo",
             "address": "215 33rd St APT 17, Brooklyn, NY 11232",
@@ -596,24 +703,24 @@
             "pricing": "$2,500/mo",
             "address": "554 Lorimer St APT 2F, Brooklyn, NY 11211",
             "space": "1 bd1 ba-- sqft - Apartment for rent"
-        },
-        {
-            "pricing": "$2,100/mo",
-            "address": "272 W 115th St APT 2B, New York, NY 10026",
-            "space": "Studio 1 ba-- sqft - Apartment for rent"
-        },
-        {
-            "pricing": "$2,580/mo",
-            "address": "102 E 31st St APT 3C, New York, NY 10016",
-            "space": "Studio 1 ba-- sqft - Apartment for rent"
-        },
-        {
-            "pricing": "$3,950/mo",
-            "address": "105 E 24th St APT 5E, New York, NY 10010",
-            "space": "2 bds1 ba-- sqft - Apartment for rent"
         }
     ],
     [
+        {
+            "pricing": "$4,650+ Studio",
+            "address": "95 Christopher St, New York, NY",
+            "space": "$6,850+ 1 bd$14,000+ 2 bds "
+        },
+        {
+            "pricing": "$7,500+ 2 bds",
+            "address": "501 E 87th St, New York, NY",
+            "space": " "
+        },
+        {
+            "pricing": "$3,350/mo",
+            "address": "190 Bleecker St APT 19, New York, NY 10012",
+            "space": "1 bd1 ba-- sqft - Apartment for rent"
+        },
         {
             "pricing": "$3,150/mo",
             "address": "306 E 6th St APT 7, New York, NY 10003",
@@ -643,24 +750,19 @@
             "pricing": "$3,000/mo",
             "address": "441 Rogers Ave APT 1L, Brooklyn, NY 11225",
             "space": "3 bds1 ba-- sqft - Apartment for rent"
-        },
-        {
-            "pricing": "$2,200/mo",
-            "address": "554 W 183rd St APT 2, New York, NY 10033",
-            "space": "1 bd1 ba-- sqft - Apartment for rent"
-        },
-        {
-            "pricing": "$3,200+ 3 bds",
-            "address": "25-50 22nd St, Astoria, NY",
-            "space": " "
-        },
-        {
-            "pricing": "$5,700+ 1 bd",
-            "address": "146 W 57th St, New York, NY",
-            "space": "$8,000+ 2 bds "
         }
     ],
     [
+        {
+            "pricing": "$1,850/mo",
+            "address": "78-46 86th St #2, Ridgewood, NY 11385",
+            "space": "1 bd1 ba-- sqft - Apartment for rent"
+        },
+        {
+            "pricing": "$2,900+ Studio",
+            "address": "97 Varet St, Brooklyn, NY",
+            "space": "$4,600+ 2 bds$6,200+ 3 bds "
+        },
         {
             "pricing": "$4,225/mo",
             "address": "787 Franklin Ave #2B, Brooklyn, NY 11238",
@@ -674,7 +776,7 @@
         {
             "pricing": "$5,199/mo",
             "address": "224 New York Ave APT 1, Brooklyn, NY 11216",
-            "space": "3 bds4 ba-- sqft - Apartment for rent"
+            "space": "4 bds3 ba-- sqft - Apartment for rent"
         },
         {
             "pricing": "$3,500/mo",
@@ -695,20 +797,61 @@
             "pricing": "$2,550/mo",
             "address": "832 Quincy St APT 2R, Brooklyn, NY 11221",
             "space": "Studio 1 ba-- sqft - Apartment for rent"
+        }
+    ],
+    [
+        {
+            "pricing": "$5,500/mo",
+            "address": "18 Meserole St APT 3B, Brooklyn, NY 11206",
+            "space": "3 bds2 ba-- sqft - Apartment for rent"
         },
         {
-            "pricing": "$2,395/mo",
-            "address": "528 E 79th St APT 1H, New York, NY 10075",
+            "pricing": "$3,000/mo",
+            "address": "100 Dupont St APT LL4, Brooklyn, NY 11222",
             "space": "Studio 1 ba-- sqft - Apartment for rent"
         },
         {
-            "pricing": "$1,995/mo",
-            "address": "28 Rutgers St APT A, New York, NY 10002",
+            "pricing": "$8,395/mo",
+            "address": "210 E 10th St APT 6, New York, NY 10003",
+            "space": "4 bds2 ba-- sqft - Apartment for rent"
+        },
+        {
+            "pricing": "$5,195/mo",
+            "address": "34 W 75th St APT 4F, New York, NY 10023",
+            "space": "2 bds2 ba-- sqft - Apartment for rent"
+        },
+        {
+            "pricing": "$3,695+ 1 bd",
+            "address": "514 E 6th St, New York, NY",
+            "space": "$5,095+ 3 bds "
+        },
+        {
+            "pricing": "$1,700/mo",
+            "address": "255 79th St APT D8, Brooklyn, NY 11209",
+            "space": "1 bd1 ba600 sqft - Apartment for rent"
+        },
+        {
+            "pricing": "$3,650/mo",
+            "address": "240 E 35th St APT 2L, New York, NY 10016",
             "space": "1 bd1 ba-- sqft - Apartment for rent"
+        },
+        {
+            "pricing": "$2,850+ 1 bd",
+            "address": "65-27 Roosevelt Ave, Woodside, NY",
+            "space": " "
+        },
+        {
+            "pricing": "$2,600/mo",
+            "address": "1304 Sterling Pl APT 3R, Brooklyn, NY 11213",
+            "space": "2 bds1 ba1,000 sqft - Apartment for rent"
         }
     ],
-    [],
     [
+        {
+            "pricing": "$3,650/mo",
+            "address": "511 W 232nd St APT E33, Bronx, NY 10463",
+            "space": "3 bds2 ba1,500 sqft - Apartment for rent"
+        },
         {
             "pricing": "$2,500+ 1 bd",
             "address": "3440 Guider Ave, Brooklyn, NY",
@@ -748,11 +891,6 @@
             "pricing": "$4,800/mo",
             "address": "47-09 47th Ave #1B, Woodside, NY 11377",
             "space": "4 bds2 ba-- sqft - Apartment for rent"
-        },
-        {
-            "pricing": "$2,500/mo",
-            "address": "298 New York Ave #2, Brooklyn, NY 11216",
-            "space": "1 bd1 ba800 sqft - Apartment for rent"
         }
     ],
     [
@@ -990,6 +1128,7 @@
             "space": "$5,060+ 1 bd$6,735+ 2 bds$8,795+ 3 bds "
         }
     ],
+    [],
     [],
     [],
     [],
