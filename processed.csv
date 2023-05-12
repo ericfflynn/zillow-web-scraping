@@ -1,114 +1,177 @@
-,Address,Rent,Layout
-0,"Atlas New York | 66 W 38th St, New York, NY",3595,Studio
-1,"Atlas New York | 66 W 38th St, New York, NY",4475,1 bd
-2,"Gotham West | 550 W 45th St, New York, NY",3725,Studio
-3,"Gotham West | 550 W 45th St, New York, NY",4495,1 bd
-4,"Gotham West | 550 W 45th St, New York, NY",7195,2 bds
-5,"The Ashland | 250 Ashland Pl, Brooklyn, NY",3445,Studio
-6,"The Ashland | 250 Ashland Pl, Brooklyn, NY",4488,1 bd
-7,"The Ashland | 250 Ashland Pl, Brooklyn, NY",8071,3 bds
-8,"One Archer | 92 160th St, Jamaica, NY",2615,1 bd
-9,"One Archer | 92 160th St, Jamaica, NY",3460,2 bds
-10,"Sven LIC | 29-59 Northern Blvd, Long Island City, NY",3664,Studio
-11,"Sven LIC | 29-59 Northern Blvd, Long Island City, NY",4000,1 bd
-12,"Sven LIC | 29-59 Northern Blvd, Long Island City, NY",5630,2 bds
-13,"Sven LIC | 29-59 Northern Blvd, Long Island City, NY",7108,3 bds
-14,"Avalon Riverview | 475 48th Ave, Long Island City, NY",3290,Studio
-15,"Avalon Riverview | 475 48th Ave, Long Island City, NY",3890,1 bd
-16,"Avalon Riverview | 475 48th Ave, Long Island City, NY",5635,2 bds
-17,"Avalon Riverview | 475 48th Ave, Long Island City, NY",7132,3 bds
-18,"57 Elmhurst LLC | 94-25 57th Ave, Elmhurst, NY",1850,Studio
-19,"57 Elmhurst LLC | 94-25 57th Ave, Elmhurst, NY",2299,1 bd
-20,"57 Elmhurst LLC | 94-25 57th Ave, Elmhurst, NY",2699,2 bds
-21,"57 Elmhurst LLC | 94-25 57th Ave, Elmhurst, NY",3199,3 bds
-22,"Magnolia Dumbo | 160 Front St, Brooklyn, NY",5209,1 bd
-23,"Magnolia Dumbo | 160 Front St, Brooklyn, NY",6886,2 bds
-24,"Magnolia Dumbo | 160 Front St, Brooklyn, NY",11365,3 bds
-25,"461 Dean | 461 Dean St, Brooklyn, NY",3465,Studio
-26,"461 Dean | 461 Dean St, Brooklyn, NY",4365,1 bd
-27,"461 Dean | 461 Dean St, Brooklyn, NY",6375,2 bds
-28,"Avalon Clinton | 515 W 52nd St, New York, NY",3475,Studio
-29,"Avalon Clinton | 515 W 52nd St, New York, NY",4402,1 bd
-30,"Avalon Clinton | 515 W 52nd St, New York, NY",7126,2 bds
-31,"The Howell | 84 William St, New York, NY",3360,Studio
-32,"The Howell | 84 William St, New York, NY",4555,1 bd
-33,"The Howell | 84 William St, New York, NY",6641,2 bds
-34,"Henry Hall | 515 W 38th St, New York, NY",3673,Studio
-35,"Henry Hall | 515 W 38th St, New York, NY",5121,1 bd
-36,"Henry Hall | 515 W 38th St, New York, NY",7326,2 bds
-37,"345 E 94 Apartments | 345 E 94th St, New York, NY",4190,1 bd
-38,"95 Wall | 95 Wall St, New York, NY",3218,Studio
-39,"95 Wall | 95 Wall St, New York, NY",4199,1 bd
-40,"95 Wall | 95 Wall St, New York, NY",6888,2 bds
-41,"15 Cliff | 15 Cliff St, New York, NY",4810,1 bd
-42,"15 Cliff | 15 Cliff St, New York, NY",6720,2 bds
-43,"ALTA by Common | 2922 Northern Blvd, Long Island City, NY",1699,Studio
-44,"Common at The Heritage | 1660 Madison Ave, New York, NY",1306,Studio
-45,"1545 Rhinelander Ave, Bronx, NY",1626,Studio
-46,"1545 Rhinelander Ave, Bronx, NY",1632,1 bd
-47,"410 E 28th St, Brooklyn, NY",2599,2 bds
-48,"85 McClellan St, Bronx, NY",1600,Studio
-49,"85 McClellan St, Bronx, NY",1995,1 bd
-50,"1603 Lincoln Pl, Brooklyn, NY",2100,1 bd
-51,"217 Sumpter St, Brooklyn, NY",2699,2 bds
-52,"68 E 79th St, New York, NY",8300,1 bd
-53,"68 E 79th St, New York, NY",11000,2 bds
-54,"301 W 53rd St, New York, NY",4450,1 bd
-55,"301 W 53rd St, New York, NY",7600,3 bds
-56,"301 W 53rd St, New York, NY",8900,4 bds
-57,"600 W 146th St, New York, NY",3650,4 bds
-58,"600 W 146th St, New York, NY",2900,5 bds
-59,"224 W 124th St, New York, NY",4665,1 bd
-60,"224 W 124th St, New York, NY",5075,2 bds
-61,"224 W 124th St, New York, NY",6437,3 bds
-62,"145 W 67th St, New York, NY",4300,1 bd
-63,"145 W 67th St, New York, NY",5700,2 bds
-64,"145 W 67th St, New York, NY",8500,3 bds
-65,"20 West St, New York, NY",3200,Studio
-66,"20 West St, New York, NY",4000,1 bd
-67,"1711 Hancock St, Ridgewood, NY",3080,1 bd
-68,"1711 Hancock St, Ridgewood, NY",3090,2 bds
-69,"Atlas New York | 66 W 38th St, New York, NY",3595,Studio
-70,"Atlas New York | 66 W 38th St, New York, NY",4475,1 bd
-71,"Gotham West | 550 W 45th St, New York, NY",3725,Studio
-72,"Gotham West | 550 W 45th St, New York, NY",4495,1 bd
-73,"Gotham West | 550 W 45th St, New York, NY",7195,2 bds
-74,"The Ashland | 250 Ashland Pl, Brooklyn, NY",3445,Studio
-75,"The Ashland | 250 Ashland Pl, Brooklyn, NY",4488,1 bd
-76,"The Ashland | 250 Ashland Pl, Brooklyn, NY",8071,3 bds
-77,"One Archer | 92 160th St, Jamaica, NY",2615,1 bd
-78,"One Archer | 92 160th St, Jamaica, NY",3460,2 bds
-79,"Sven LIC | 29-59 Northern Blvd, Long Island City, NY",3664,Studio
-80,"Sven LIC | 29-59 Northern Blvd, Long Island City, NY",4000,1 bd
-81,"Sven LIC | 29-59 Northern Blvd, Long Island City, NY",5630,2 bds
-82,"Sven LIC | 29-59 Northern Blvd, Long Island City, NY",7108,3 bds
-83,"Avalon Riverview | 475 48th Ave, Long Island City, NY",3290,Studio
-84,"Avalon Riverview | 475 48th Ave, Long Island City, NY",3890,1 bd
-85,"Avalon Riverview | 475 48th Ave, Long Island City, NY",5635,2 bds
-86,"Avalon Riverview | 475 48th Ave, Long Island City, NY",7132,3 bds
-87,"57 Elmhurst LLC | 94-25 57th Ave, Elmhurst, NY",1850,Studio
-88,"57 Elmhurst LLC | 94-25 57th Ave, Elmhurst, NY",2299,1 bd
-89,"57 Elmhurst LLC | 94-25 57th Ave, Elmhurst, NY",2699,2 bds
-90,"57 Elmhurst LLC | 94-25 57th Ave, Elmhurst, NY",3199,3 bds
-91,"Atlas New York | 66 W 38th St, New York, NY",3595,Studio
-92,"Atlas New York | 66 W 38th St, New York, NY",4475,1 bd
-93,"Gotham West | 550 W 45th St, New York, NY",3725,Studio
-94,"Gotham West | 550 W 45th St, New York, NY",4495,1 bd
-95,"Gotham West | 550 W 45th St, New York, NY",7195,2 bds
-96,"The Ashland | 250 Ashland Pl, Brooklyn, NY",3445,Studio
-97,"The Ashland | 250 Ashland Pl, Brooklyn, NY",4488,1 bd
-98,"The Ashland | 250 Ashland Pl, Brooklyn, NY",8071,3 bds
-99,"One Archer | 92 160th St, Jamaica, NY",2615,1 bd
-100,"One Archer | 92 160th St, Jamaica, NY",3460,2 bds
-101,"Sven LIC | 29-59 Northern Blvd, Long Island City, NY",3664,Studio
-102,"Sven LIC | 29-59 Northern Blvd, Long Island City, NY",4000,1 bd
-103,"Sven LIC | 29-59 Northern Blvd, Long Island City, NY",5630,2 bds
-104,"Sven LIC | 29-59 Northern Blvd, Long Island City, NY",7108,3 bds
-105,"Avalon Riverview | 475 48th Ave, Long Island City, NY",3290,Studio
-106,"Avalon Riverview | 475 48th Ave, Long Island City, NY",3890,1 bd
-107,"Avalon Riverview | 475 48th Ave, Long Island City, NY",5635,2 bds
-108,"Avalon Riverview | 475 48th Ave, Long Island City, NY",7132,3 bds
-109,"57 Elmhurst LLC | 94-25 57th Ave, Elmhurst, NY",1850,Studio
-110,"57 Elmhurst LLC | 94-25 57th Ave, Elmhurst, NY",2299,1 bd
-111,"57 Elmhurst LLC | 94-25 57th Ave, Elmhurst, NY",2699,2 bds
-112,"57 Elmhurst LLC | 94-25 57th Ave, Elmhurst, NY",3199,3 bds
+,Layout,Rent,Address,CleanAddress,Space,Pricing,Location
+0,1 bd,2425,"Parkside Manor | 14831 90th Ave, Jamaica, NY"," 14831 90th Ave, Jamaica, NY","$2,940+ 2 bds ","$2,425+ 1 bd","('40.704538', '-73.802277')"
+1,2 bds,2940,"Parkside Manor | 14831 90th Ave, Jamaica, NY"," 14831 90th Ave, Jamaica, NY","$2,940+ 2 bds ","$2,425+ 1 bd","('40.704538', '-73.802277')"
+2,Studio,1795,"Fairfield Manor at Douglaston | 43 Douglaston Pkwy, Little Neck, NY"," 43 Douglaston Pkwy, Little Neck, NY","$2,345+ 1 bd$2,795+ 2 bds ","$1,795+ Studio","('40.762795249999996', '-73.74282150893399')"
+3,1 bd,2345,"Fairfield Manor at Douglaston | 43 Douglaston Pkwy, Little Neck, NY"," 43 Douglaston Pkwy, Little Neck, NY","$2,345+ 1 bd$2,795+ 2 bds ","$1,795+ Studio","('40.762795249999996', '-73.74282150893399')"
+4,2 bds,2795,"Fairfield Manor at Douglaston | 43 Douglaston Pkwy, Little Neck, NY"," 43 Douglaston Pkwy, Little Neck, NY","$2,345+ 1 bd$2,795+ 2 bds ","$1,795+ Studio","('40.762795249999996', '-73.74282150893399')"
+5,1 bd,158,"Noonan Towers | 939 Woodycrest Ave, Bronx, NY"," 939 Woodycrest Ave, Bronx, NY",nan,"$1,581+ 1 bd","('40.830961900000005', '-73.9296344695851')"
+6,Studio,1700,"Park Haven Place | 88 153rd St, Jamaica, NY"," 88 153rd St, Jamaica, NY","$2,199+ 1 bd$2,599+ 2 bds ","$1,700+ Studio","('40.7053893', '-73.8039833')"
+7,1 bd,2199,"Park Haven Place | 88 153rd St, Jamaica, NY"," 88 153rd St, Jamaica, NY","$2,199+ 1 bd$2,599+ 2 bds ","$1,700+ Studio","('40.7053893', '-73.8039833')"
+8,2 bds,2599,"Park Haven Place | 88 153rd St, Jamaica, NY"," 88 153rd St, Jamaica, NY","$2,199+ 1 bd$2,599+ 2 bds ","$1,700+ Studio","('40.7053893', '-73.8039833')"
+9,Studio,2000,"Alvista Rise | 147-25 94th Ave, Jamaica, NY"," 147-25 94th Ave, Jamaica, NY","$2,300+ 1 bd$2,750+ 2 bds ","$2,000+ Studio","('40.6980748', '-73.8098033')"
+10,1 bd,2300,"Alvista Rise | 147-25 94th Ave, Jamaica, NY"," 147-25 94th Ave, Jamaica, NY","$2,300+ 1 bd$2,750+ 2 bds ","$2,000+ Studio","('40.6980748', '-73.8098033')"
+11,2 bds,2750,"Alvista Rise | 147-25 94th Ave, Jamaica, NY"," 147-25 94th Ave, Jamaica, NY","$2,300+ 1 bd$2,750+ 2 bds ","$2,000+ Studio","('40.6980748', '-73.8098033')"
+12,Studio,159,"ALTA by Common | 2922 Northern Blvd, Long Island City, NY"," 2922 Northern Blvd, Long Island City, NY",nan,"$1,594+ Studio","('40.7625685', '-73.8045805')"
+13,Studio,130,"Common at The Heritage | 1660 Madison Ave, New York, NY"," 1660 Madison Ave, New York, NY",nan,"$1,306+ Studio","('40.7966947', '-73.9474859')"
+14,2 bds,2200,"2180 Reeds Mill Ln #2, Bronx, NY 10475","2180 Reeds Mill Ln, Bronx, NY 10475",2 bds1 ba-- sqft - Apartment for rent,"$2,200/mo","('40.88209325', '-73.83138690808352')"
+15,1 bd,179,"505 85th St, Brooklyn, NY","505 85th St, Brooklyn, NY",nan,"$1,798+ 1 bd","('40.622086632653065', '-74.02539812244898')"
+16,2 bds,2995,"312 Park Ave #2, Brooklyn, NY 11205","312 Park Ave, Brooklyn, NY 11205",2 bds1 ba-- sqft - Apartment for rent,"$2,995/mo","('40.69551205', '-73.96497589599684')"
+17,Studio,5150,"460 W 42nd St, New York, NY","460 W 42nd St, New York, NY","$5,250+ 1 bd$8,500+ 2 bds ","$5,150+ Studio","('40.758974050000006', '-73.99492432672875')"
+18,1 bd,5250,"460 W 42nd St, New York, NY","460 W 42nd St, New York, NY","$5,250+ 1 bd$8,500+ 2 bds ","$5,150+ Studio","('40.758974050000006', '-73.99492432672875')"
+19,2 bds,8500,"460 W 42nd St, New York, NY","460 W 42nd St, New York, NY","$5,250+ 1 bd$8,500+ 2 bds ","$5,150+ Studio","('40.758974050000006', '-73.99492432672875')"
+20,1 bd,2599,"292 Covert St #1B, Brooklyn, NY 11237","292 Covert St, Brooklyn, NY 11237",1 bd1 ba750 sqft - Apartment for rent,"$2,599/mo","('40.69239845', '-73.90600019106583')"
+21,2 bds,375,"47 E 30th St, New York, NY","47 E 30th St, New York, NY",nan,"$3,750+ 2 bds","('40.744903050000005', '-73.98353115')"
+22,1 bd,2350,"272 W 139th St APT 4C, New York, NY 10030","272 W 139th St, New York, NY 10030",1 bd1 ba-- sqft - Apartment for rent,"$2,350/mo","('40.8188717', '-73.9445239')"
+23,Studio,4300,"572 11th Ave, New York, NY","572 11th Ave, New York, NY","$5,550+ 1 bd ","$4,300+ Studio","('40.7615758', '-73.9973446')"
+24,1 bd,5550,"572 11th Ave, New York, NY","572 11th Ave, New York, NY","$5,550+ 1 bd ","$4,300+ Studio","('40.7615758', '-73.9973446')"
+25,3 bds,319,"403 Macon St, Brooklyn, NY","403 Macon St, Brooklyn, NY",nan,"$3,198+ 3 bds","('40.68292905', '-73.93559024171327')"
+26,1 bd,400,"101 Avenue D, New York, NY","101 Avenue D, New York, NY",nan,"$4,000+ 1 bd","('40.7236714068814', '-73.97591888930415')"
+27,1 bd,2000,"1692 Linden St, Ridgewood, NY","1692 Linden St, Ridgewood, NY","$3,500+ 4 bds ","$2,000+ 1 bd","('40.70231655', '-73.91032520836467')"
+28,4 bds,3500,"1692 Linden St, Ridgewood, NY","1692 Linden St, Ridgewood, NY","$3,500+ 4 bds ","$2,000+ 1 bd","('40.70231655', '-73.91032520836467')"
+29,2 bds2.,7495,"458 State St #A, Brooklyn, NY 11217","458 State St, Brooklyn, NY 11217","2 bds2.5 ba1,600 sqft - Apartment for rent","$7,495/mo","('40.68649775', '-73.98209789399588')"
+30,1 bd,2500,"201 Troy Ave, Brooklyn, NY","201 Troy Ave, Brooklyn, NY","$2,600+ 2 bds ","$2,500+ 1 bd","('40.6725303', '-73.9361842')"
+31,2 bds,2600,"201 Troy Ave, Brooklyn, NY","201 Troy Ave, Brooklyn, NY","$2,600+ 2 bds ","$2,500+ 1 bd","('40.6725303', '-73.9361842')"
+32,1 bd,1785,"1611 Jefferson Ave, Ridgewood, NY","1611 Jefferson Ave, Ridgewood, NY","$3,400+ 3 bds ","$1,785+ 1 bd","('40.6979859', '-73.90739929612845')"
+33,3 bds,3400,"1611 Jefferson Ave, Ridgewood, NY","1611 Jefferson Ave, Ridgewood, NY","$3,400+ 3 bds ","$1,785+ 1 bd","('40.6979859', '-73.90739929612845')"
+34,2 bds,2300,"2867 Webster Ave #1, Bronx, NY 10458","2867 Webster Ave, Bronx, NY 10458",2 bds1 ba-- sqft - Apartment for rent,"$2,300/mo","('40.867228299999994', '-73.88412258562123')"
+35,1 bd,2475,"122 Dikeman St APT 3R, Brooklyn, NY 11231","122 Dikeman St, Brooklyn, NY 11231",1 bd1 ba-- sqft - Apartment for rent,"$2,475/mo","('40.67717195', '-74.01377282595602')"
+36,2 bds,379,"611 E 11th St, New York, NY","611 E 11th St, New York, NY",nan,"$3,795+ 2 bds","('40.7273661', '-73.97866714811352')"
+37,4 bds,4650,"482 Lafayette Ave #1L, Brooklyn, NY 11205","482 Lafayette Ave, Brooklyn, NY 11205",4 bds2 ba-- sqft - Apartment for rent,"$4,650/mo","('40.68919175', '-73.95583500520134')"
+38,1 bd,2900,"131-05 40th Rd, Flushing, NY","131-05 40th Rd, Flushing, NY","$6,800+ 3 bds ","$2,900+ 1 bd","('40.7560923', '-73.8357831')"
+39,3 bds,6800,"131-05 40th Rd, Flushing, NY","131-05 40th Rd, Flushing, NY","$6,800+ 3 bds ","$2,900+ 1 bd","('40.7560923', '-73.8357831')"
+40,1 bd,2495,"1114 Halsey St, Brooklyn, NY","1114 Halsey St, Brooklyn, NY","$2,795+ 2 bds ","$2,495+ 1 bd","('40.689155400000004', '-73.91154857625483')"
+41,2 bds,2795,"1114 Halsey St, Brooklyn, NY","1114 Halsey St, Brooklyn, NY","$2,795+ 2 bds ","$2,495+ 1 bd","('40.689155400000004', '-73.91154857625483')"
+42,1 bd,410,"591 3rd Ave, New York, NY","591 3rd Ave, New York, NY",nan,"$4,100+ 1 bd","('42.7753695', '-73.6758768')"
+43,1 bd,2350,"35-21 81st St #2, Jackson Heights, NY 11372","35-21 81st St, Jackson Heights, NY 11372",1 bd1 ba-- sqft - Apartment for rent,"$2,350/mo","('40.7511642', '-73.8853903')"
+44,1 bd,1600,"2024 Continental Ave #31A, Bronx, NY 10461","2024 Continental Ave, Bronx, NY 10461",1 bd1 ba-- sqft - Apartment for rent,"$1,600/mo","('40.8527498', '-73.82969816135996')"
+45,Studio,3175,"313 W 76th St APT 3A, New York, NY 10023","313 W 76th St, New York, NY 10023",Studio 1 ba-- sqft - Apartment for rent,"$3,175/mo","('40.78260802040816', '-73.98287134693878')"
+46,2 bds,5000,"370 W 30th St APT 9B, New York, NY 10001","370 W 30th St, New York, NY 10001",2 bds1 ba-- sqft - Apartment for rent,"$5,000/mo","('40.7506254', '-73.9979323')"
+47,2 bds,2225,"351 92nd St APT 4, Brooklyn, NY 11209","351 92nd St, Brooklyn, NY 11209",2 bds1 ba-- sqft - Apartment for rent,"$2,225/mo","('40.6190658', '-74.03106541876495')"
+48,2 bds,3295,"33-53 82nd St, Jackson Heights, NY","33-53 82nd St, Jackson Heights, NY","$3,395+ 3 bds ","$3,295+ 2 bds","('40.754056000000006', '-73.8849180678302')"
+49,3 bds,3395,"33-53 82nd St, Jackson Heights, NY","33-53 82nd St, Jackson Heights, NY","$3,395+ 3 bds ","$3,295+ 2 bds","('40.754056000000006', '-73.8849180678302')"
+50,Studio,2595,"2532 30th Dr, Long Island City, NY 11102","2532 30th Dr, Long Island City, NY 11102",Studio 1 ba-- sqft - Apartment for rent,"$2,595/mo","(None, None)"
+51,Studio,1829,"59-17 70th Ave #1R, Ridgewood, NY 11385","59-17 70th Ave, Ridgewood, NY 11385",Studio 1 ba550 sqft - Apartment for rent,"$1,829/mo","('40.7014534', '-73.89979804999999')"
+52,1 bd,1900,"136 Madison St, Brooklyn, NY 11216","136 Madison St, Brooklyn, NY 11216",1 bd1 ba-- sqft - Apartment for rent,"$1,900/mo","('40.6841885', '-73.95353526245847')"
+53,3 bds2.,15500,"55 E 86th St #9C, New York, NY 10028","55 E 86th St, New York, NY 10028","3 bds2.5 ba1,643 sqft - Apartment for rent","$15,500/mo","('40.7808711', '-73.95821906070178')"
+54,1 bd,3500,"315 Gates Ave APT 5R, Brooklyn, NY 11216","315 Gates Ave, Brooklyn, NY 11216",1 bd1 ba719 sqft - Apartment for rent,"$3,500/mo","('40.6858547', '-73.9547831')"
+55,Studio,3800,"140 E 56th St APT 10A, New York, NY 10022","140 E 56th St, New York, NY 10022",Studio 1 ba540 sqft - Apartment for rent,"$3,800/mo","('40.76010056666667', '-73.96949113333332')"
+56,1 bd,3680,"155 W 82nd St APT 2, New York, NY 10024","155 W 82nd St, New York, NY 10024",1 bd1 ba-- sqft - Apartment for rent,"$3,680/mo","('40.784991399999996', '-73.97619133428421')"
+57,2 bds,2199,"7813 16th Ave FLOOR 2, Brooklyn, NY 11214","7813 16th Ave FLOOR 2, Brooklyn, NY 11214",2 bds1 ba820 sqft - Apartment for rent,"$2,199/mo","(None, None)"
+58,3 bds,399,"1194 Greene Ave, Brooklyn, NY","1194 Greene Ave, Brooklyn, NY",nan,"$3,990+ 3 bds","('40.69504245', '-73.9221767')"
+59,Studio,2395,"165 Attorney St, New York, NY","165 Attorney St, New York, NY","$4,895+ 3 bds ","$2,395+ Studio","('40.720829', '-73.9834040952978')"
+60,3 bds,4895,"165 Attorney St, New York, NY","165 Attorney St, New York, NY","$4,895+ 3 bds ","$2,395+ Studio","('40.720829', '-73.9834040952978')"
+61,1 bd,1850,"133-27 39th Ave #A1D, Flushing, NY 11354","133-27 39th Ave, Flushing, NY 11354",1 bd1 ba-- sqft - Apartment for rent,"$1,850/mo","('40.7593267', '-73.8339357')"
+62,Studio,4550,"50 Murray St, New York, NY","50 Murray St, New York, NY","$7,280+ 1 bd$7,500+ 3 bds$10,500+ 4 bds ","$4,550+ Studio","('42.0940314', '-75.9227469')"
+63,1 bd,7280,"50 Murray St, New York, NY","50 Murray St, New York, NY","$7,280+ 1 bd$7,500+ 3 bds$10,500+ 4 bds ","$4,550+ Studio","('42.0940314', '-75.9227469')"
+64,3 bds,7500,"50 Murray St, New York, NY","50 Murray St, New York, NY","$7,280+ 1 bd$7,500+ 3 bds$10,500+ 4 bds ","$4,550+ Studio","('42.0940314', '-75.9227469')"
+65,4 bds,10500,"50 Murray St, New York, NY","50 Murray St, New York, NY","$7,280+ 1 bd$7,500+ 3 bds$10,500+ 4 bds ","$4,550+ Studio","('42.0940314', '-75.9227469')"
+66,Studio,3750,"160 Riverside Blvd, New York, NY","160 Riverside Blvd, New York, NY","$4,100+ 1 bd$7,440+ 2 bds ","$3,750+ Studio","('40.77766645', '-73.98846603238228')"
+67,1 bd,4100,"160 Riverside Blvd, New York, NY","160 Riverside Blvd, New York, NY","$4,100+ 1 bd$7,440+ 2 bds ","$3,750+ Studio","('40.77766645', '-73.98846603238228')"
+68,2 bds,7440,"160 Riverside Blvd, New York, NY","160 Riverside Blvd, New York, NY","$4,100+ 1 bd$7,440+ 2 bds ","$3,750+ Studio","('40.77766645', '-73.98846603238228')"
+69,2 bds,8500,"442 W 44th St #2, New York, NY 10036","442 W 44th St, New York, NY 10036","2 bds2 ba2,000 sqft - Apartment for rent","$8,500/mo","('40.760317799999996', '-73.99352458165755')"
+70,1 bd,3380,"1092 Dean St #A, Brooklyn, NY 11216","1092 Dean St, Brooklyn, NY 11216",1 bd1 ba-- sqft - Apartment for rent,"$3,380/mo","('40.677044550000005', '-73.9539209')"
+71,2 bds,3495,"248 W 64th St APT 2B, New York, NY 10023","248 W 64th St, New York, NY 10023",2 bds1 ba-- sqft - Apartment for rent,"$3,495/mo","('40.7743588', '-73.9875207')"
+72,2 bds,15000,"251 W 19th St APT 7A, New York, NY 10011","251 W 19th St, New York, NY 10011","2 bds2 ba1,653 sqft - Apartment for rent","$15,000/mo","('40.742528', '-73.9991606')"
+73,2 bds,2595,"565 W 188th St APT 50, New York, NY 10040","565 W 188th St, New York, NY 10040",2 bds1 ba-- sqft - Apartment for rent,"$2,595/mo","('40.85358335', '-73.92975508102396')"
+74,2 bds,3995,"342 E 85th St APT 2, New York, NY 10028","342 E 85th St, New York, NY 10028",2 bds1 ba-- sqft - Apartment for rent,"$3,995/mo","('40.7763554', '-73.95085040312712')"
+75,1 bd,2800,"75 W 131st St APT 3, New York, NY 10037","75 W 131st St, New York, NY 10037",1 bd1 ba-- sqft - Apartment for rent,"$2,800/mo","('40.8114982', '-73.9420711594901')"
+76,2 bds1.,7000,"221 W 82nd St APT 5C, New York, NY 10024","221 W 82nd St, New York, NY 10024",2 bds1.5 ba-- sqft - Apartment for rent,"$7,000/mo","('40.7856204', '-73.9778785')"
+77,1 bd,200,"531 Tinton Ave, Bronx, NY","531 Tinton Ave, Bronx, NY",nan,"$2,000+ 1 bd","('40.812217849999996', '-73.90672890110773')"
+78,4 bds,4000,"802 Beverly Rd #2, Brooklyn, NY 11218","802 Beverly Rd, Brooklyn, NY 11218","4 bds1 ba1,100 sqft - Apartment for rent","$4,000/mo","('40.6434418', '-73.971476')"
+79,1 bd,7500,"40 Central Park S, New York, NY","40 Central Park S, New York, NY","$6,500+ 2 bds$21,000+ 3 bds ","$7,500+ 1 bd","('40.7652199', '-73.9755591')"
+80,2 bds,6500,"40 Central Park S, New York, NY","40 Central Park S, New York, NY","$6,500+ 2 bds$21,000+ 3 bds ","$7,500+ 1 bd","('40.7652199', '-73.9755591')"
+81,3 bds,21000,"40 Central Park S, New York, NY","40 Central Park S, New York, NY","$6,500+ 2 bds$21,000+ 3 bds ","$7,500+ 1 bd","('40.7652199', '-73.9755591')"
+82,1 bd,343,"42-20 27th St, Long Island City, NY","42-20 27th St, Long Island City, NY",nan,"$3,434+ 1 bd","('40.749661599999996', '-73.94064453463754')"
+83,2 bds,5385,"12-15 Jackson Ave #1, Long Island City, NY 11101","12-15 Jackson Ave, Long Island City, NY 11101","2 bds2 ba1,175 sqft - Apartment for rent","$5,385/mo","('40.74389695', '-73.95048210002166')"
+84,1 bd,2985,"10 Montieth St, Brooklyn, NY","10 Montieth St, Brooklyn, NY","$4,450+ 2 bds ","$2,985+ 1 bd","('40.701297333333336', '-73.93642874999999')"
+85,2 bds,4450,"10 Montieth St, Brooklyn, NY","10 Montieth St, Brooklyn, NY","$4,450+ 2 bds ","$2,985+ 1 bd","('40.701297333333336', '-73.93642874999999')"
+86,1 bd,360,"236 E 47th St, New York, NY","236 E 47th St, New York, NY",nan,"$3,600+ 1 bd","('40.75308095', '-73.9706821')"
+87,1 bd,5580,"30 Morningside Dr, New York, NY","30 Morningside Dr, New York, NY","$7,800+ 2 bds ","$5,580+ 1 bd","('42.6119866', '-76.1609365')"
+88,2 bds,7800,"30 Morningside Dr, New York, NY","30 Morningside Dr, New York, NY","$7,800+ 2 bds ","$5,580+ 1 bd","('42.6119866', '-76.1609365')"
+89,Studio,3664,"Sven LIC | 29-59 Northern Blvd, Long Island City, NY"," 29-59 Northern Blvd, Long Island City, NY","$4,000+ 1 bd$5,630+ 2 bds$7,108+ 3 bds ","$3,664+ Studio","('40.7625685', '-73.8045805')"
+90,1 bd,4000,"Sven LIC | 29-59 Northern Blvd, Long Island City, NY"," 29-59 Northern Blvd, Long Island City, NY","$4,000+ 1 bd$5,630+ 2 bds$7,108+ 3 bds ","$3,664+ Studio","('40.7625685', '-73.8045805')"
+91,2 bds,5630,"Sven LIC | 29-59 Northern Blvd, Long Island City, NY"," 29-59 Northern Blvd, Long Island City, NY","$4,000+ 1 bd$5,630+ 2 bds$7,108+ 3 bds ","$3,664+ Studio","('40.7625685', '-73.8045805')"
+92,3 bds,7108,"Sven LIC | 29-59 Northern Blvd, Long Island City, NY"," 29-59 Northern Blvd, Long Island City, NY","$4,000+ 1 bd$5,630+ 2 bds$7,108+ 3 bds ","$3,664+ Studio","('40.7625685', '-73.8045805')"
+93,Studio,3470,"One Blue Slip | 1 Blue Slip, Brooklyn, NY"," 1 Blue Slip, Brooklyn, NY","$3,940+ 1 bd$6,075+ 2 bds ","$3,470+ Studio","('40.736772450000004', '-73.9591308092516')"
+94,1 bd,3940,"One Blue Slip | 1 Blue Slip, Brooklyn, NY"," 1 Blue Slip, Brooklyn, NY","$3,940+ 1 bd$6,075+ 2 bds ","$3,470+ Studio","('40.736772450000004', '-73.9591308092516')"
+95,2 bds,6075,"One Blue Slip | 1 Blue Slip, Brooklyn, NY"," 1 Blue Slip, Brooklyn, NY","$3,940+ 1 bd$6,075+ 2 bds ","$3,470+ Studio","('40.736772450000004', '-73.9591308092516')"
+96,Studio,3210,"Avalon Riverview | 475 48th Ave, Long Island City, NY"," 475 48th Ave, Long Island City, NY","$4,020+ 1 bd$5,685+ 2 bds$7,102+ 3 bds ","$3,210+ Studio","('40.7435831', '-73.9508987')"
+97,1 bd,4020,"Avalon Riverview | 475 48th Ave, Long Island City, NY"," 475 48th Ave, Long Island City, NY","$4,020+ 1 bd$5,685+ 2 bds$7,102+ 3 bds ","$3,210+ Studio","('40.7435831', '-73.9508987')"
+98,2 bds,5685,"Avalon Riverview | 475 48th Ave, Long Island City, NY"," 475 48th Ave, Long Island City, NY","$4,020+ 1 bd$5,685+ 2 bds$7,102+ 3 bds ","$3,210+ Studio","('40.7435831', '-73.9508987')"
+99,3 bds,7102,"Avalon Riverview | 475 48th Ave, Long Island City, NY"," 475 48th Ave, Long Island City, NY","$4,020+ 1 bd$5,685+ 2 bds$7,102+ 3 bds ","$3,210+ Studio","('40.7435831', '-73.9508987')"
+100,Studio,3673,"Henry Hall | 515 W 38th St, New York, NY"," 515 W 38th St, New York, NY","$5,121+ 1 bd$7,326+ 2 bds ","$3,673+ Studio","('40.757497692307695', '-73.99797507692308')"
+101,1 bd,5121,"Henry Hall | 515 W 38th St, New York, NY"," 515 W 38th St, New York, NY","$5,121+ 1 bd$7,326+ 2 bds ","$3,673+ Studio","('40.757497692307695', '-73.99797507692308')"
+102,2 bds,7326,"Henry Hall | 515 W 38th St, New York, NY"," 515 W 38th St, New York, NY","$5,121+ 1 bd$7,326+ 2 bds ","$3,673+ Studio","('40.757497692307695', '-73.99797507692308')"
+103,Studio,4207,"The Capitol | 776 6th Ave, New York, NY"," 776 6th Ave, New York, NY","$4,975+ 1 bd$7,871+ 2 bds ","$4,207+ Studio","('42.781279', '-73.6687145')"
+104,1 bd,4975,"The Capitol | 776 6th Ave, New York, NY"," 776 6th Ave, New York, NY","$4,975+ 1 bd$7,871+ 2 bds ","$4,207+ Studio","('42.781279', '-73.6687145')"
+105,2 bds,7871,"The Capitol | 776 6th Ave, New York, NY"," 776 6th Ave, New York, NY","$4,975+ 1 bd$7,871+ 2 bds ","$4,207+ Studio","('42.781279', '-73.6687145')"
+106,1 bd,6132,"Aalto57 | 1065 2nd Ave, New York, NY"," 1065 2nd Ave, New York, NY","$8,575+ 2 bds$9,971+ 3 bds ","$6,132+ 1 bd","('40.7588375', '-73.96575737500001')"
+107,2 bds,8575,"Aalto57 | 1065 2nd Ave, New York, NY"," 1065 2nd Ave, New York, NY","$8,575+ 2 bds$9,971+ 3 bds ","$6,132+ 1 bd","('40.7588375', '-73.96575737500001')"
+108,3 bds,9971,"Aalto57 | 1065 2nd Ave, New York, NY"," 1065 2nd Ave, New York, NY","$8,575+ 2 bds$9,971+ 3 bds ","$6,132+ 1 bd","('40.7588375', '-73.96575737500001')"
+109,Studio,4165,"60 Riverside Blvd, New York, NY","60 Riverside Blvd, New York, NY","$5,480+ 1 bd$8,515+ 2 bds$13,000+ 3 bds ","$4,165+ Studio","('40.7742239', '-73.9905028')"
+110,1 bd,5480,"60 Riverside Blvd, New York, NY","60 Riverside Blvd, New York, NY","$5,480+ 1 bd$8,515+ 2 bds$13,000+ 3 bds ","$4,165+ Studio","('40.7742239', '-73.9905028')"
+111,2 bds,8515,"60 Riverside Blvd, New York, NY","60 Riverside Blvd, New York, NY","$5,480+ 1 bd$8,515+ 2 bds$13,000+ 3 bds ","$4,165+ Studio","('40.7742239', '-73.9905028')"
+112,3 bds,13000,"60 Riverside Blvd, New York, NY","60 Riverside Blvd, New York, NY","$5,480+ 1 bd$8,515+ 2 bds$13,000+ 3 bds ","$4,165+ Studio","('40.7742239', '-73.9905028')"
+113,Studio,4671,"The Dylan | 309 5th Ave, New York, NY"," 309 5th Ave, New York, NY","$5,513+ 1 bd$8,454+ 2 bds ","$4,671+ Studio","('40.672961400000005', '-73.98285601652276')"
+114,1 bd,5513,"The Dylan | 309 5th Ave, New York, NY"," 309 5th Ave, New York, NY","$5,513+ 1 bd$8,454+ 2 bds ","$4,671+ Studio","('40.672961400000005', '-73.98285601652276')"
+115,2 bds,8454,"The Dylan | 309 5th Ave, New York, NY"," 309 5th Ave, New York, NY","$5,513+ 1 bd$8,454+ 2 bds ","$4,671+ Studio","('40.672961400000005', '-73.98285601652276')"
+116,Studio,2450,"The Tides At Arverne By The Sea | 190 Beach 69th St, Arverne, NY"," 190 Beach 69th St, Arverne, NY","$4,200+ 2 bds ","$2,450+ Studio","('40.587919908163265', '-73.79775286734694')"
+117,2 bds,4200,"The Tides At Arverne By The Sea | 190 Beach 69th St, Arverne, NY"," 190 Beach 69th St, Arverne, NY","$4,200+ 2 bds ","$2,450+ Studio","('40.587919908163265', '-73.79775286734694')"
+118,Studio,3664,"Sven LIC | 29-59 Northern Blvd, Long Island City, NY"," 29-59 Northern Blvd, Long Island City, NY","$4,000+ 1 bd$5,630+ 2 bds$7,108+ 3 bds ","$3,664+ Studio","('40.7625685', '-73.8045805')"
+119,1 bd,4000,"Sven LIC | 29-59 Northern Blvd, Long Island City, NY"," 29-59 Northern Blvd, Long Island City, NY","$4,000+ 1 bd$5,630+ 2 bds$7,108+ 3 bds ","$3,664+ Studio","('40.7625685', '-73.8045805')"
+120,2 bds,5630,"Sven LIC | 29-59 Northern Blvd, Long Island City, NY"," 29-59 Northern Blvd, Long Island City, NY","$4,000+ 1 bd$5,630+ 2 bds$7,108+ 3 bds ","$3,664+ Studio","('40.7625685', '-73.8045805')"
+121,3 bds,7108,"Sven LIC | 29-59 Northern Blvd, Long Island City, NY"," 29-59 Northern Blvd, Long Island City, NY","$4,000+ 1 bd$5,630+ 2 bds$7,108+ 3 bds ","$3,664+ Studio","('40.7625685', '-73.8045805')"
+122,Studio,3470,"One Blue Slip | 1 Blue Slip, Brooklyn, NY"," 1 Blue Slip, Brooklyn, NY","$3,940+ 1 bd$6,075+ 2 bds ","$3,470+ Studio","('40.736772450000004', '-73.9591308092516')"
+123,1 bd,3940,"One Blue Slip | 1 Blue Slip, Brooklyn, NY"," 1 Blue Slip, Brooklyn, NY","$3,940+ 1 bd$6,075+ 2 bds ","$3,470+ Studio","('40.736772450000004', '-73.9591308092516')"
+124,2 bds,6075,"One Blue Slip | 1 Blue Slip, Brooklyn, NY"," 1 Blue Slip, Brooklyn, NY","$3,940+ 1 bd$6,075+ 2 bds ","$3,470+ Studio","('40.736772450000004', '-73.9591308092516')"
+125,Studio,3210,"Avalon Riverview | 475 48th Ave, Long Island City, NY"," 475 48th Ave, Long Island City, NY","$4,020+ 1 bd$5,685+ 2 bds$7,102+ 3 bds ","$3,210+ Studio","('40.7435831', '-73.9508987')"
+126,1 bd,4020,"Avalon Riverview | 475 48th Ave, Long Island City, NY"," 475 48th Ave, Long Island City, NY","$4,020+ 1 bd$5,685+ 2 bds$7,102+ 3 bds ","$3,210+ Studio","('40.7435831', '-73.9508987')"
+127,2 bds,5685,"Avalon Riverview | 475 48th Ave, Long Island City, NY"," 475 48th Ave, Long Island City, NY","$4,020+ 1 bd$5,685+ 2 bds$7,102+ 3 bds ","$3,210+ Studio","('40.7435831', '-73.9508987')"
+128,3 bds,7102,"Avalon Riverview | 475 48th Ave, Long Island City, NY"," 475 48th Ave, Long Island City, NY","$4,020+ 1 bd$5,685+ 2 bds$7,102+ 3 bds ","$3,210+ Studio","('40.7435831', '-73.9508987')"
+129,Studio,3673,"Henry Hall | 515 W 38th St, New York, NY"," 515 W 38th St, New York, NY","$5,121+ 1 bd$7,326+ 2 bds ","$3,673+ Studio","('40.757497692307695', '-73.99797507692308')"
+130,1 bd,5121,"Henry Hall | 515 W 38th St, New York, NY"," 515 W 38th St, New York, NY","$5,121+ 1 bd$7,326+ 2 bds ","$3,673+ Studio","('40.757497692307695', '-73.99797507692308')"
+131,2 bds,7326,"Henry Hall | 515 W 38th St, New York, NY"," 515 W 38th St, New York, NY","$5,121+ 1 bd$7,326+ 2 bds ","$3,673+ Studio","('40.757497692307695', '-73.99797507692308')"
+132,Studio,4207,"The Capitol | 776 6th Ave, New York, NY"," 776 6th Ave, New York, NY","$4,975+ 1 bd$7,871+ 2 bds ","$4,207+ Studio","('42.781279', '-73.6687145')"
+133,1 bd,4975,"The Capitol | 776 6th Ave, New York, NY"," 776 6th Ave, New York, NY","$4,975+ 1 bd$7,871+ 2 bds ","$4,207+ Studio","('42.781279', '-73.6687145')"
+134,2 bds,7871,"The Capitol | 776 6th Ave, New York, NY"," 776 6th Ave, New York, NY","$4,975+ 1 bd$7,871+ 2 bds ","$4,207+ Studio","('42.781279', '-73.6687145')"
+135,1 bd,6132,"Aalto57 | 1065 2nd Ave, New York, NY"," 1065 2nd Ave, New York, NY","$8,575+ 2 bds$9,971+ 3 bds ","$6,132+ 1 bd","('40.7588375', '-73.96575737500001')"
+136,2 bds,8575,"Aalto57 | 1065 2nd Ave, New York, NY"," 1065 2nd Ave, New York, NY","$8,575+ 2 bds$9,971+ 3 bds ","$6,132+ 1 bd","('40.7588375', '-73.96575737500001')"
+137,3 bds,9971,"Aalto57 | 1065 2nd Ave, New York, NY"," 1065 2nd Ave, New York, NY","$8,575+ 2 bds$9,971+ 3 bds ","$6,132+ 1 bd","('40.7588375', '-73.96575737500001')"
+138,Studio,4165,"60 Riverside Blvd, New York, NY","60 Riverside Blvd, New York, NY","$5,480+ 1 bd$8,515+ 2 bds$13,000+ 3 bds ","$4,165+ Studio","('40.7742239', '-73.9905028')"
+139,1 bd,5480,"60 Riverside Blvd, New York, NY","60 Riverside Blvd, New York, NY","$5,480+ 1 bd$8,515+ 2 bds$13,000+ 3 bds ","$4,165+ Studio","('40.7742239', '-73.9905028')"
+140,2 bds,8515,"60 Riverside Blvd, New York, NY","60 Riverside Blvd, New York, NY","$5,480+ 1 bd$8,515+ 2 bds$13,000+ 3 bds ","$4,165+ Studio","('40.7742239', '-73.9905028')"
+141,3 bds,13000,"60 Riverside Blvd, New York, NY","60 Riverside Blvd, New York, NY","$5,480+ 1 bd$8,515+ 2 bds$13,000+ 3 bds ","$4,165+ Studio","('40.7742239', '-73.9905028')"
+142,Studio,4671,"The Dylan | 309 5th Ave, New York, NY"," 309 5th Ave, New York, NY","$5,513+ 1 bd$8,454+ 2 bds ","$4,671+ Studio","('40.672961400000005', '-73.98285601652276')"
+143,1 bd,5513,"The Dylan | 309 5th Ave, New York, NY"," 309 5th Ave, New York, NY","$5,513+ 1 bd$8,454+ 2 bds ","$4,671+ Studio","('40.672961400000005', '-73.98285601652276')"
+144,2 bds,8454,"The Dylan | 309 5th Ave, New York, NY"," 309 5th Ave, New York, NY","$5,513+ 1 bd$8,454+ 2 bds ","$4,671+ Studio","('40.672961400000005', '-73.98285601652276')"
+145,Studio,2450,"The Tides At Arverne By The Sea | 190 Beach 69th St, Arverne, NY"," 190 Beach 69th St, Arverne, NY","$4,200+ 2 bds ","$2,450+ Studio","('40.587919908163265', '-73.79775286734694')"
+146,2 bds,4200,"The Tides At Arverne By The Sea | 190 Beach 69th St, Arverne, NY"," 190 Beach 69th St, Arverne, NY","$4,200+ 2 bds ","$2,450+ Studio","('40.587919908163265', '-73.79775286734694')"
+147,Studio,3664,"Sven LIC | 29-59 Northern Blvd, Long Island City, NY"," 29-59 Northern Blvd, Long Island City, NY","$4,000+ 1 bd$5,630+ 2 bds$7,108+ 3 bds ","$3,664+ Studio","('40.7625685', '-73.8045805')"
+148,1 bd,4000,"Sven LIC | 29-59 Northern Blvd, Long Island City, NY"," 29-59 Northern Blvd, Long Island City, NY","$4,000+ 1 bd$5,630+ 2 bds$7,108+ 3 bds ","$3,664+ Studio","('40.7625685', '-73.8045805')"
+149,2 bds,5630,"Sven LIC | 29-59 Northern Blvd, Long Island City, NY"," 29-59 Northern Blvd, Long Island City, NY","$4,000+ 1 bd$5,630+ 2 bds$7,108+ 3 bds ","$3,664+ Studio","('40.7625685', '-73.8045805')"
+150,3 bds,7108,"Sven LIC | 29-59 Northern Blvd, Long Island City, NY"," 29-59 Northern Blvd, Long Island City, NY","$4,000+ 1 bd$5,630+ 2 bds$7,108+ 3 bds ","$3,664+ Studio","('40.7625685', '-73.8045805')"
+151,Studio,3470,"One Blue Slip | 1 Blue Slip, Brooklyn, NY"," 1 Blue Slip, Brooklyn, NY","$3,940+ 1 bd$6,075+ 2 bds ","$3,470+ Studio","('40.736772450000004', '-73.9591308092516')"
+152,1 bd,3940,"One Blue Slip | 1 Blue Slip, Brooklyn, NY"," 1 Blue Slip, Brooklyn, NY","$3,940+ 1 bd$6,075+ 2 bds ","$3,470+ Studio","('40.736772450000004', '-73.9591308092516')"
+153,2 bds,6075,"One Blue Slip | 1 Blue Slip, Brooklyn, NY"," 1 Blue Slip, Brooklyn, NY","$3,940+ 1 bd$6,075+ 2 bds ","$3,470+ Studio","('40.736772450000004', '-73.9591308092516')"
+154,Studio,3210,"Avalon Riverview | 475 48th Ave, Long Island City, NY"," 475 48th Ave, Long Island City, NY","$4,020+ 1 bd$5,685+ 2 bds$7,102+ 3 bds ","$3,210+ Studio","('40.7435831', '-73.9508987')"
+155,1 bd,4020,"Avalon Riverview | 475 48th Ave, Long Island City, NY"," 475 48th Ave, Long Island City, NY","$4,020+ 1 bd$5,685+ 2 bds$7,102+ 3 bds ","$3,210+ Studio","('40.7435831', '-73.9508987')"
+156,2 bds,5685,"Avalon Riverview | 475 48th Ave, Long Island City, NY"," 475 48th Ave, Long Island City, NY","$4,020+ 1 bd$5,685+ 2 bds$7,102+ 3 bds ","$3,210+ Studio","('40.7435831', '-73.9508987')"
+157,3 bds,7102,"Avalon Riverview | 475 48th Ave, Long Island City, NY"," 475 48th Ave, Long Island City, NY","$4,020+ 1 bd$5,685+ 2 bds$7,102+ 3 bds ","$3,210+ Studio","('40.7435831', '-73.9508987')"
+158,Studio,3673,"Henry Hall | 515 W 38th St, New York, NY"," 515 W 38th St, New York, NY","$5,121+ 1 bd$7,326+ 2 bds ","$3,673+ Studio","('40.757497692307695', '-73.99797507692308')"
+159,1 bd,5121,"Henry Hall | 515 W 38th St, New York, NY"," 515 W 38th St, New York, NY","$5,121+ 1 bd$7,326+ 2 bds ","$3,673+ Studio","('40.757497692307695', '-73.99797507692308')"
+160,2 bds,7326,"Henry Hall | 515 W 38th St, New York, NY"," 515 W 38th St, New York, NY","$5,121+ 1 bd$7,326+ 2 bds ","$3,673+ Studio","('40.757497692307695', '-73.99797507692308')"
+161,Studio,4207,"The Capitol | 776 6th Ave, New York, NY"," 776 6th Ave, New York, NY","$4,975+ 1 bd$7,871+ 2 bds ","$4,207+ Studio","('42.781279', '-73.6687145')"
+162,1 bd,4975,"The Capitol | 776 6th Ave, New York, NY"," 776 6th Ave, New York, NY","$4,975+ 1 bd$7,871+ 2 bds ","$4,207+ Studio","('42.781279', '-73.6687145')"
+163,2 bds,7871,"The Capitol | 776 6th Ave, New York, NY"," 776 6th Ave, New York, NY","$4,975+ 1 bd$7,871+ 2 bds ","$4,207+ Studio","('42.781279', '-73.6687145')"
+164,1 bd,6132,"Aalto57 | 1065 2nd Ave, New York, NY"," 1065 2nd Ave, New York, NY","$8,575+ 2 bds$9,971+ 3 bds ","$6,132+ 1 bd","('40.7588375', '-73.96575737500001')"
+165,2 bds,8575,"Aalto57 | 1065 2nd Ave, New York, NY"," 1065 2nd Ave, New York, NY","$8,575+ 2 bds$9,971+ 3 bds ","$6,132+ 1 bd","('40.7588375', '-73.96575737500001')"
+166,3 bds,9971,"Aalto57 | 1065 2nd Ave, New York, NY"," 1065 2nd Ave, New York, NY","$8,575+ 2 bds$9,971+ 3 bds ","$6,132+ 1 bd","('40.7588375', '-73.96575737500001')"
+167,Studio,4165,"60 Riverside Blvd, New York, NY","60 Riverside Blvd, New York, NY","$5,480+ 1 bd$8,515+ 2 bds$13,000+ 3 bds ","$4,165+ Studio","('40.7742239', '-73.9905028')"
+168,1 bd,5480,"60 Riverside Blvd, New York, NY","60 Riverside Blvd, New York, NY","$5,480+ 1 bd$8,515+ 2 bds$13,000+ 3 bds ","$4,165+ Studio","('40.7742239', '-73.9905028')"
+169,2 bds,8515,"60 Riverside Blvd, New York, NY","60 Riverside Blvd, New York, NY","$5,480+ 1 bd$8,515+ 2 bds$13,000+ 3 bds ","$4,165+ Studio","('40.7742239', '-73.9905028')"
+170,3 bds,13000,"60 Riverside Blvd, New York, NY","60 Riverside Blvd, New York, NY","$5,480+ 1 bd$8,515+ 2 bds$13,000+ 3 bds ","$4,165+ Studio","('40.7742239', '-73.9905028')"
+171,Studio,4671,"The Dylan | 309 5th Ave, New York, NY"," 309 5th Ave, New York, NY","$5,513+ 1 bd$8,454+ 2 bds ","$4,671+ Studio","('40.672961400000005', '-73.98285601652276')"
+172,1 bd,5513,"The Dylan | 309 5th Ave, New York, NY"," 309 5th Ave, New York, NY","$5,513+ 1 bd$8,454+ 2 bds ","$4,671+ Studio","('40.672961400000005', '-73.98285601652276')"
+173,2 bds,8454,"The Dylan | 309 5th Ave, New York, NY"," 309 5th Ave, New York, NY","$5,513+ 1 bd$8,454+ 2 bds ","$4,671+ Studio","('40.672961400000005', '-73.98285601652276')"
+174,Studio,2450,"The Tides At Arverne By The Sea | 190 Beach 69th St, Arverne, NY"," 190 Beach 69th St, Arverne, NY","$4,200+ 2 bds ","$2,450+ Studio","('40.587919908163265', '-73.79775286734694')"
+175,2 bds,4200,"The Tides At Arverne By The Sea | 190 Beach 69th St, Arverne, NY"," 190 Beach 69th St, Arverne, NY","$4,200+ 2 bds ","$2,450+ Studio","('40.587919908163265', '-73.79775286734694')"
